@@ -7,15 +7,14 @@ Only the Cython source and header file are provided. You can install it however 
 
 The code for random number generation and seeding was lifted directly from the C implementation of the code created by Matsumoto and Nishimura.
 
-References:
-   T. Nishimura, ``Tables of 64-bit Mersenne Twisters''
-     ACM Transactions on Modeling and 
-     Computer Simulation 10. (2000) 348--357.
-   M. Matsumoto and T. Nishimura,
-     ``Mersenne Twister: a 623-dimensionally equidistributed
-       uniform pseudorandom number generator''
-     ACM Transactions on Modeling and 
-     Computer Simulation 8. (Jan. 1998) 3--30.
+## References
+
+    T. Nishimura, 'Tables of 64-bit Mersenne Twisters.' ACM Transactions on Modeling and Computer 
+    Simulation 10. (2000) 348--357.
+   
+    M. Matsumoto and T. Nishimura, 'Mersenne Twister: a 623-dimensionally equidistributed 
+    uniform pseudorandom number generator.' ACM Transactions on Modeling and Computer 
+    Simulation 8. (Jan. 1998) 3--30.
  
 
 # Testing
